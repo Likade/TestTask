@@ -1472,19 +1472,13 @@ h2 {
 
 @font-face {
   font-family: "Montserrat";  
-  src: url("fonts/MontserratRegular.ttf") format("truetype"); 
-  font-style: normal; 
-  font-weight: normal;
+  src: url("fonts/MontserratRegular.woff"); 
 }
 @font-face {
   font-family: "MontserratBold";  
-  src: url("fonts/Montserrat.ttf") format("truetype"); 
-  font-style: normal; 
-  font-weight: normal;
+  src: url("fonts/MontserratBold.woff"); 
 }
 @font-face {
   font-family: "Proxima Nova";  
-  src: url("fonts/ProximaNova.ttf") format("truetype"); 
-  font-style: normal; 
-  font-weight: normal;
+  src: url("fonts/ProximaNova.woff"); 
 }

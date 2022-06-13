@@ -51,7 +51,7 @@
 
 @font-face {
   font-family: "Montserrat";  
-  src: url("/fonts/MontserratRegular.ttf") format("truetype"); 
+  src: url("fonts/MontserratRegular.ttf") format("truetype"); 
   font-style: normal; 
   font-weight: normal;
 }
